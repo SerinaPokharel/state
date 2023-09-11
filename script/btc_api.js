@@ -1,4 +1,4 @@
-const btcAmount = 0.18765321;
+const btcAmount = 0.97965381;
 
    fetch('https://min-api.cryptocompare.com/data/price?fsym=BTC&tsyms=USD')
       .then(response => response.json())
